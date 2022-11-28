@@ -1,5 +1,7 @@
 # Fish Hunt
 
+Ceci est un jeu vidéo.
+
 Vous incarnez un requin qui chasse des poissons pour son souper.
 
 Vous ne pouvez pas vous permettre de laisser trop de poissons passer. Au bout de 3 poissons ratés, la
